@@ -1,3 +1,3 @@
-ID,Manufacturer,Model
-"1","HPE","ProBook 470 G6"
-"2","LENOVO","T14 G1"
+ID,Manufacturer,Model,custom
+"1","HPE","ProBook 470 G6",""
+"2","LENOVO","T14 G1",""
